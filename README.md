@@ -1,3 +1,8 @@
+# fork info
+
+    Note: this is an experimental fork of SODN; 
+          see TODO.md to find out what's added.
+
 # sodn
 
 Sodn is a Self-Organizing Dnode Network, made of
